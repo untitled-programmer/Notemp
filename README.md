@@ -25,5 +25,6 @@ To install Notemp, follow these steps:
 2. Ensure you have Python installed. Notemp requires Python 3.x.
 
 ```bash
+python3 setup.py
 python3 main.py
 ```
