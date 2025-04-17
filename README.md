@@ -17,10 +17,11 @@
 **To install Notemp, follow these steps:**
 
 *1. 🚴 Clone the repository:*
-    ```bash
-    git clone https://github.com/untitled-programmer/Notemp.git
-    cd Notemp
-    ```
+
+```bash
+git clone https://github.com/untitled-programmer/Notemp.git
+cd Notemp
+```
 
 *2. 🐍 Ensure you have Python installed. Notemp requires Python 3.x.*
 
